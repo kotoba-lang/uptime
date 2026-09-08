@@ -34,7 +34,7 @@
   conclusive observation. An availability of 100% over 4% coverage is not a
   good month; it is an unmonitored one, and the statement says so rather than
   leaving the reader to notice."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 (def outcomes
   "What one probe can conclude. `:inconclusive` is about the PROBE, not the
