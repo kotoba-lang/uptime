@@ -54,5 +54,5 @@ three lines are not.
 ## Build
 
 ```bash
-clojure -M:test    # 10 tests / 41 assertions
+kbb -M:test    # 10 tests / 41 assertions
 ```
